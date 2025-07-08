@@ -30,7 +30,7 @@
 
 
 ## Homepage :
-<img src="https://drive.google.com/file/d/1LCSVax6wxdz-Iy_gQJ6i9nw1L-3TmxI4/view?usp=drive_link" width="90%"> </img>
+<img src="https://github.com/bhavesshhh/ShopIt-master/blob/main/src/Images/homepage.png" width="90%"> </img>
 
 ## Login Page :
 ![Login](https://user-images.githubusercontent.com/90616584/230283787-3241dcf6-8d0b-4aed-89e2-bc748bcea971.jpg)
