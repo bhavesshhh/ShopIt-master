@@ -1,6 +1,6 @@
-# OneStore Collection.
+# Shop-It
  
-- OneStore is a Lifestyle Accessories Brand that curates stunning designs and prints it on a wide range of personal accessories. We vision to bring the things you love on the things you use.
+- Shop-It is a Lifestyle Accessories Brand that curates stunning designs and prints it on a wide range of personal accessories. We vision to bring the things you love on the things you use.
 
 # Tech-Stacks Used :
  - HTML 
